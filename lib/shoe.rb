@@ -13,6 +13,6 @@ class Shoe
   end
 def size =(size)
     @size = size
-    SIZES << SIZE
+    SIZES << size
   end
 end
